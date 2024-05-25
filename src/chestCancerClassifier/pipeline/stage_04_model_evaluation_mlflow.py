@@ -20,7 +20,7 @@ class EvaluationPipeline:
 
 
 
-if __name__ =="__main":
+if __name__ =="__main__":
     try:
         logger.info(f"********************")
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
